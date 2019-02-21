@@ -47,9 +47,9 @@
 .texteIssam2{
     font-weight: bold;
     font-size: 50px;
-    text-shadow: 1px 1px red;
+    text-shadow: 2px 1px red;
 }
 .texteIssam1{
-    text-shadow: 1px 1px white;
+    text-shadow: 2px 1px white;
     font-size: 60px;
 }
